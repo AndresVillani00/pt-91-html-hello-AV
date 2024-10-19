@@ -1,0 +1,58 @@
+* {
+    margin-top: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    background: rgb(189, 188, 188);
+}
+
+body {
+    display: contents;
+}
+
+.head-photo-feed h1 {
+    background-color: white;
+    text-align: center;
+}
+
+.photo-feed {
+    display: flex;
+    width: 100px;
+    margin: auto;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.photo-feed-header {
+    display: flex;
+    justify-content: center;
+    gap: 320px;
+    background-color: white;
+}
+
+.num-photo {
+    color: darkgray;
+}
+
+.photo-feed-header p {
+    text-align: left;
+    padding: 5px;
+    background-color: white;
+}
+
+.photo-feed-body {
+    background-color: white;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.photo-feed-footer p {
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+}
+
+
